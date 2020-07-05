@@ -6,7 +6,9 @@
 ## Resources
 	Data Source: The Movie Data Base (TMDb), Wikipedia Movies JSON
 	Software: Python 3.8.3, Jupyter Notebooks
-
+	
+	A sample of the TMDb ratings is hosted on this repo. The full CSV file can be downloaded from here:
+		https://www.kaggle.com/rounakbanik/the-movies-dataset
 ## Challenge Overview
 	A Python function that takes in three inputs (Wikipedia Movies JSON, TMDb Movie Metadata, and TMDb Movie Ratings) and sanitizes the data has been created. At the end the produced Dataframe is inserted into a Postgres SQL database. The ETL process is robust based on the assumptions outlined. Those assumptions are:
 	1. The updated data received will be in the same format
