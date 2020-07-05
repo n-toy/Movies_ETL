@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+Resources/ratings.csv
+__pycache__/
+config.py
+Wikipedia_movies.ipynb
